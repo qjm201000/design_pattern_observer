@@ -5,7 +5,7 @@ import java.util.Observable;
 /**
  * 订阅号
  */
-public class Subject extends Observable {
+public class subscibe extends Observable {
     /**
      * 新增文章
      */
